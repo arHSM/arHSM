@@ -18,17 +18,17 @@ E-Mail : **hanseungmin.ar@gmail.com**
 
 ### FOLLOW ME ON SOCIAL MEDIA :
 
-YOUTUBE : https://youtube.com/channel/UC62NRogy9qQz81vmCrU7U_A
+YOUTUBE : **https://youtube.com/channel/UC62NRogy9qQz81vmCrU7U_A**
 
-TWITTER : @_arHSM
+TWITTER : **@_arHSM**
 
-PINTEREST : @arHanSeungMin
+PINTEREST : **@arHanSeungMin**
 
-GITHUB : @arHSM
+GITHUB : **@arHSM**
 
-DISCORD SERVER : https://discord.gg/MeB8gwQSDU
+DISCORD SERVER : **https://discord.gg/MeB8gwQSDU**
 
-LINKEDIN : *(HOLD YOUR HORSES BUDDY)*
+LINKEDIN : ***(HOLD YOUR HORSES BUDDY)***
 
 <!---
 arHSM/arHSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
