@@ -21,7 +21,7 @@ YOUTUBE : **https://youtube.com/channel/UC62NRogy9qQz81vmCrU7U_A**
 
 TWITTER : **@_arHSM (https://twitter.com/_arHSM)**
 
-PINTEREST : **@arHanSeungMin (https://pinterest.com/arHanSeungMin/)
+PINTEREST : **@arHanSeungMin (https://pinterest.com/arHanSeungMin/)**
 
 PATREON : **@arHSM (https://www.patreon.com/arhsm)**
 
