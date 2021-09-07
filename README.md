@@ -17,6 +17,7 @@ Discord : **arHSM#5682**
 E-Mail : **hanseungmin.ar@gmail.com**
 
 ### FOLLOW ME ON SOCIAL MEDIA :
+
 YOUTUBE : **https://youtube.com/channel/UC62NRogy9qQz81vmCrU7U_A**
 
 TWITTER : **@_arHSM (https://twitter.com/_arHSM)**
@@ -27,7 +28,7 @@ PATREON : **@arHSM (https://www.patreon.com/arhsm)**
 
 GITHUB : **@arHSM (https://github.com/arHSM)**
 
-DISCORD SERVER : **https://discord.gg/MeB8gwQSDU**
+DISCORD SERVER : **https://discord.gg/mjw66XwHUW**
 
 LINKEDIN : ***(HOLD YOUR HORSES BUDDY)***
 
