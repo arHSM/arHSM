@@ -28,9 +28,7 @@ PATREON : **@arHSM (https://www.patreon.com/arhsm)**
 
 GITHUB : **@arHSM (https://github.com/arHSM)**
 
-DISCORD SERVER : **https://discord.gg/mjw66XwHUW**
-
-LINKEDIN : ***(HOLD YOUR HORSES BUDDY)***
+DISCORD SERVER : **https://discord.com/invite/8RATdNBs6n**
 
 <!---
 arHSM/arHSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
