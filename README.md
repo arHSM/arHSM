@@ -15,7 +15,6 @@ Social -
 - Youtube: [arHSM](https://youtube.com/channel/UC62NRogy9qQz81vmCrU7U_A)
 - Twitter: [@_arHSM](https://twitter.com/_arHSM)
 - Pinterest: [@arHanSeungMin](https://pinterest.com/arHanSeungMin/)
-- Patreon: [@arHSM](https://www.patreon.com/arhsm)
 - Github: [@arHSM](https://github.com/arHSM)
 - Gitlab: [@arHSM](https://gitlab.com/arHSM)
 
