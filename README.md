@@ -1,34 +1,25 @@
 # I’m 한승민 (Han Seung Min) 
-
 AKA - @arHSM / @_arHSM / @arHanSeungMin / *(i_dont_remember)*
 
-### I am a -
-
-- **Developer**
-- **Content Creator**
-- **3D enthusiast**
-
+I am a -
+- Developer
+- Content Creator
+- 3D enthusiast\
 *and I love physics, cosmology, ...*
 
-### Reach me on -
+Reach me on -
+- Discord : arHSM#5682
+- E-Mail : hanseungmin.ar@gmail.com
 
-Discord : **arHSM#5682**
+Social -
+- Youtube: [arHSM](https://youtube.com/channel/UC62NRogy9qQz81vmCrU7U_A)
+- Twitter: [@_arHSM](https://twitter.com/_arHSM)
+- Pinterest: [@arHanSeungMin](https://pinterest.com/arHanSeungMin/)
+- Patreon: [@arHSM](https://www.patreon.com/arhsm)
+- Github: [@arHSM](https://github.com/arHSM)
+- Gitlab: [@arHSM](https://gitlab.com/arHSM)
 
-E-Mail : **hanseungmin.ar@gmail.com**
-
-### FOLLOW ME ON SOCIAL MEDIA :
-
-YOUTUBE : **https://youtube.com/channel/UC62NRogy9qQz81vmCrU7U_A**
-
-TWITTER : **@_arHSM (https://twitter.com/_arHSM)**
-
-PINTEREST : **@arHanSeungMin (https://pinterest.com/arHanSeungMin/)**
-
-PATREON : **@arHSM (https://www.patreon.com/arhsm)**
-
-GITHUB : **@arHSM (https://github.com/arHSM)**
-
-DISCORD SERVER : **https://discord.com/invite/8RATdNBs6n**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arHSM&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!---
 arHSM/arHSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
