@@ -20,7 +20,12 @@ Social -
 - Reddit: [@arHSM](https://reddit.com/u/arHSM)
 - Pinterest: [@arHanSeungMin](https://pinterest.com/arHanSeungMin/)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arHSM&count_private=true&theme=discord_old_blurple&showicons=true)]()
+[![Github Statistics Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arHSM&theme=github_dark)]()
+
+[![Github Language by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arHSM&theme=github_dark)]()
+[![Github Commits per Day hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arHSM&theme=github_dark)]()
+
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=arHSM&theme=darkhub&column=3&no-bg=true&margin-w=15&margin-h=15&no-frame=true)]()
 <!---
 arHSM/arHSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
